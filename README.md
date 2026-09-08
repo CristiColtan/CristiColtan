@@ -6,5 +6,3 @@ interest in where web development and application security meet.
 
 **Working with:** Vue 2/3 · Laravel · React · Node.js · PHP · JavaScript · C/C++
 **Learning:** application security, cryptography, PKI
-
-📫 [LinkedIn](www.linkedin.com/in/cristian-coltan)
